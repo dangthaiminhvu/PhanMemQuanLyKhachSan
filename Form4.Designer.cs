@@ -45,9 +45,9 @@
             this.lblMaPhong.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMaPhong.Location = new System.Drawing.Point(186, 75);
             this.lblMaPhong.Name = "lblMaPhong";
-            this.lblMaPhong.Size = new System.Drawing.Size(144, 38);
+            this.lblMaPhong.Size = new System.Drawing.Size(136, 38);
             this.lblMaPhong.TabIndex = 14;
-            this.lblMaPhong.Text = "Mã Phòng";
+            this.lblMaPhong.Text = "Số Phòng";
             // 
             // txtRoomId
             // 
@@ -58,6 +58,7 @@
             this.txtRoomId.Name = "txtRoomId";
             this.txtRoomId.Size = new System.Drawing.Size(879, 40);
             this.txtRoomId.TabIndex = 15;
+            this.txtRoomId.TextChanged += new System.EventHandler(this.txtRoomId_TextChanged);
             // 
             // lblDanhGia
             // 
@@ -75,15 +76,16 @@
             this.cbbRating.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbbRating.FormattingEnabled = true;
             this.cbbRating.Items.AddRange(new object[] {
-            "1 sao",
-            "2 sao",
-            "3 sao",
-            "4 sao",
-            "5 sao"});
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"});
             this.cbbRating.Location = new System.Drawing.Point(193, 309);
             this.cbbRating.Name = "cbbRating";
             this.cbbRating.Size = new System.Drawing.Size(879, 39);
             this.cbbRating.TabIndex = 17;
+            this.cbbRating.SelectedIndexChanged += new System.EventHandler(this.cbbRating_SelectedIndexChanged);
             // 
             // lblBinhLuan
             // 
@@ -103,6 +105,7 @@
             this.txtComment.Name = "txtComment";
             this.txtComment.Size = new System.Drawing.Size(879, 38);
             this.txtComment.TabIndex = 19;
+            this.txtComment.TextChanged += new System.EventHandler(this.txtComment_TextChanged);
             // 
             // btnSendFb
             // 

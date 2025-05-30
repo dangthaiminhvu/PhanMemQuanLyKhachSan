@@ -134,7 +134,6 @@ namespace QLKS__Luxury
             cbxTrangThai.SelectedIndex = 0;
         }
 
-        // Nếu bạn chưa gắn event cho nút thoát:
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -142,7 +141,18 @@ namespace QLKS__Luxury
 
         private void btnPrintInvoice_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrWhiteSpace(lblCustomerName.Text) &&
+                string.IsNullOrWhiteSpace(lblRoom.Text) &&
+                string.IsNullOrWhiteSpace(lblIDNumber.Text) &&
+                string.IsNullOrWhiteSpace(lblServiceCharges.Text))
+            {
+                MessageBox.Show("Không thể in hóa đơn không tồn tại.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
+            // Nếu có dữ liệu thì tiến hành in (ở đây chỉ là giả lập)
+            MessageBox.Show("In hóa đơn thành công.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
     }
 }
