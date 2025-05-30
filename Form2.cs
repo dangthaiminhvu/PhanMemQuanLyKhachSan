@@ -81,7 +81,18 @@ namespace QLKS__Luxury
 
         private void btnReset_Click(object sender, EventArgs e)
         {
+            // Xóa TextBox
+            txtBookingCode.Text = "";
+            txtIDNumber.Text = "";
 
+            // Xóa kết quả hiển thị
+            foreach (var lbl in new[] { lblCustomerName, lblRoomID, lblPhone, lblRoomType, lblEmail, lblCheckDates, lblYCDACBIET, lblPrice })
+            {
+                lbl.Text = "";
+            }
+
+            // Đặt lại focus
+            txtBookingCode.Focus();
         }
 
         private void lblCustomerName_TextChanged(object sender, EventArgs e)

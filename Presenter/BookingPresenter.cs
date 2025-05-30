@@ -40,12 +40,12 @@ namespace QLKS__Luxury.Presenter
                     JOIN KhachHang KH ON HD.MaKhachHang = KH.MaKhachHang
                     JOIN Phong P ON HD.MaPhong = P.MaPhong
                     LEFT JOIN YeuCauDacBiet YCB ON YCB.MaKhachHang = KH.MaKhachHang
-                    WHERE KH.MaXacNhan LIKE @bookingCode
-                    AND KH.CCCD LIKE @idNumber
+                    WHERE KH.MaXacNhan = @bookingCode
+                      AND KH.CCCD = @idNumber
                     GROUP BY KH.HoVaTen, P.SoPhong, KH.SoDienThoai, P.LoaiPhong, KH.Email, HD.NgayNhanPhong, HD.TongTien;
                 ";
-                cmd.Parameters.AddWithValue("@bookingCode", "%" + _view.BookingCode + "%");
-                cmd.Parameters.AddWithValue("@idNumber", "%" + _view.IDNumber + "%");
+                cmd.Parameters.AddWithValue("@bookingCode", _view.BookingCode.Trim());
+                cmd.Parameters.AddWithValue("@idNumber", _view.IDNumber.Trim());
 
                 conn.Open();
                 using (var rdr = cmd.ExecuteReader())
@@ -70,7 +70,7 @@ namespace QLKS__Luxury.Presenter
                     else
                     {
                         MessageBox.Show(
-                            $"Không tìm thấy đặt phòng với mã xác nhận là {_view.BookingCode} của khách có CCCD là {_view.IDNumber}.",
+                            $"Không tìm thấy đặt phòng với mã xác nhận là [{_view.BookingCode}] của khách có CCCD là [{_view.IDNumber}].",
                             "Kết quả tìm kiếm",
                             MessageBoxButtons.OK,
                             MessageBoxIcon.Information

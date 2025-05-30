@@ -84,7 +84,6 @@ namespace QLKS__Luxury
                             MessageBoxButtons.OK,
                             MessageBoxIcon.Information
                         );
-                        // Clear nháp
                         lblCustomerName.Text = lblRoom.Text = lblIDNumber.Text = lblServiceCharges.Text = "";
                     }
                 }
