@@ -1,0 +1,65 @@
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.exe
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form1.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.exe
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Dashboard.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form2.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form3.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form4.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form5.resources
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.exe
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.pdb
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.exe.config
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.exe
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\QLKS  Luxury.pdb
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\Google.Protobuf.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\MySql.Data.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Buffers.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Memory.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\ZstdSharp.dll
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\Google.Protobuf.pdb
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\Google.Protobuf.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\MySql.Data.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Buffers.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Memory.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.exe.config
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Dashboard.resources
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form1.resources
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form2.resources
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form3.resources
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form4.resources
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Form5.resources
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS__Luxury.Properties.Resources.resources
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Luxury.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\DoAnPTTKHT\QLKS  Luxury\QLKS  Luxury\obj\Debug\QLKS  Lu.7F891C86.Up2Date
